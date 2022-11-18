@@ -1,3 +1,6 @@
 # CardGame_Design
-![Android Large - 1 (1)](https://user-images.githubusercontent.com/113116925/202439268-c1e23eeb-2881-40ad-9acb-fbe7b61d2c8d.png)
-![Android Large - 2 (1)](https://user-images.githubusercontent.com/113116925/202179011-ec0af2c2-255f-4ae0-ab95-9290d8418294.png)
+![Android Large - 1](https://user-images.githubusercontent.com/113116925/202671417-4a2d274f-41fd-477f-865a-96640438d084.png)
+![Android Large - 2](https://user-images.githubusercontent.com/113116925/202671444-9e221ff9-f708-4971-ba26-88e747084927.png)
+![Android Large - 3](https://user-images.githubusercontent.com/113116925/202671455-1131cd5b-1f55-42a0-95e2-7b7aa5105b07.png)
+
+
